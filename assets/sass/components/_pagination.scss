@@ -1,0 +1,15 @@
+.pagination {
+    background-color: #e6e7e7;
+    .boton-anterior {
+        border-top-left-radius: 1rem;
+        border-bottom-left-radius: 1rem;
+
+    }
+    .boton-siguiente {
+        border-top-right-radius: 1rem;
+        border-bottom-right-radius: 1rem;
+    }
+    .active{
+    color:lightslategray;
+    }
+}

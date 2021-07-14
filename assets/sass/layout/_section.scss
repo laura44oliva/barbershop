@@ -1,0 +1,44 @@
+.section_paginador{
+    
+    background:  $platinum;
+
+}
+
+
+.section_texto{
+    h2 {
+        font-size: $medium;
+        font-family: $roboto;
+        font-weight: $light;
+        margin: 2 rem;
+
+    }
+    p{
+        font-size: $medium;
+        font-family: $roboto;
+        font-weight: $light;
+        margin: 2rem;
+        text-align: justify;
+    }
+
+}
+
+.section_texto4{
+
+    h1{
+        font-family: $playfair;
+        font-style: italic;
+        font-size: xx-large;
+        font-weight: 400;
+
+    }
+    h4{
+        color: $ruddy_pink;
+        font-weight: $light;
+        font-size: $medium;
+
+    }
+}
+
+
+
